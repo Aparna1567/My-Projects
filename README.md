@@ -10,4 +10,3 @@ My Hands-On-Projects :
                                :  Technologies used : HTML 5, CSS 3, BOOTSTRAP 5
 * InteriorDesign website   : Github link :  https://aparna1567.github.io/Interiordesign_Project/
                                :  Technologies used : HTML 5, CSS 3
-
