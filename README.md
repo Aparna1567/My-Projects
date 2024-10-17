@@ -1,5 +1,7 @@
 My Hands-On-Projects :
 
+* Event Management Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT  || Github link : https://aparna1567.github.io/Eventmanagement/
+
 * Admin Dashboard          :  Technologies used : HTML 5, CSS 3, JAVASCRIPT  || Github link : https://aparna1567.github.io/Admin-Dashboard/ 
               
 * Fashion Website          :  Technologies used : REACT, REDUX, TAILWIND CSS, VITE, HTML 5, CSS 3, JAVASCRIPT || Github link : https://aparna1567.github.io/Fashion/
