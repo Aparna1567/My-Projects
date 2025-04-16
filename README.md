@@ -22,7 +22,7 @@ My Hands-On-Projects :
  Github link : https://aparna1567.github.io/Admin-Dashboard/ 
                          
 * CakeShop Website  :  Technologies used : HTML 5, CSS 3, BOOTSTRAP 5 ||
- Github link : https://aparna1567.github.io/githubemc1/
+ Github link : https://aparna1567.github.io/cakewebsite/
                         
 
 
