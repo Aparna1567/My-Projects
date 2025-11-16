@@ -1,7 +1,7 @@
 FRONTEND- PROJECTS :
 
 * Cosmetics Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT, SASS/SCSS ||  
-  Live link : https://aparna1567.github.io/cosmeticswebsite/ || Github: 
+  Live link : https://aparna1567.github.io/cosmeticswebsite/ 
 
 * Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
  Github link : https://aparna1567.github.io/Awwwardsproj/
