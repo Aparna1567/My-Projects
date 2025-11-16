@@ -4,22 +4,39 @@ FRONTEND- PROJECTS :
   Live link : https://aparna1567.github.io/cosmeticswebsite/ 
 
 * Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
- Github link : https://aparna1567.github.io/Awwwardsproj/
+  Live link : https://aparna1567.github.io/Awwwardsproj/
 
 * Ecommerce Website :  Technologies used : React, Tailwind CSS, Redux, VITE ||
- Github link : https://aparna1567.github.io/Ecommerceweb/
+  Live link : https://aparna1567.github.io/Ecommerceweb/
                                    
 * Gym Website       :  Technologies used : React, Bootstrap 5, Framer Motion, Webpack ||
- Github link : https://aparna1567.github.io/gymwebsite/
+  Live link : https://aparna1567.github.io/gymwebsite/
 
 * Restaurant Website  :  Technologies used : HTML 5, CSS 3, BOOTSTRAP 5 ||
- Github link : https://aparna1567.github.io/restaurantweb/
+  Live link : https://aparna1567.github.io/restaurantweb/
 
 * Event Management Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT ||  
- Github link : https://aparna1567.github.io/Eventmanagement/
+  Live link : https://aparna1567.github.io/Eventmanagement/
 
-* Admin Dashboard   :  Technologies used : HTML 5, CSS 3, JAVASCRIPT  ||
- Github link : https://aparna1567.github.io/Admin-Dashboard/ 
+ FULLSTACK- PROJECTS:
+
+ * STEAMIFY- REAL TIME CHAT APPLICATION : Technologies used: MongoDB, Express, React, Nodejs, Tanstack Query
+ Live link : https://streamify-video-bm8q.onrender.com/
+ 
+ * QUICK AI : Technologies used: React, Tailwind CSS, Neon, PostgreSQL, Clerk
+ Live link: https://quick-ai-iota-blond.vercel.app/
+
+ * BUSINESS WEBSITE : Technologies used: Nextjs, Tailwind CSS
+ Live link : https://businesswebsite-9xn4.vercel.app/
+
+ * STOCK MARKET WEBAPPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit
+ Live link : https://signalist-ochre.vercel.app/
+
+ * TOURVISTO : Technologies used: React Router V7, Sentry, Syncfusion, Appwrite
+ Live link : https://tourvistoweb.vercel.app/
+ 
+
+
                          
 
                         
