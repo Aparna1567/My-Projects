@@ -1,13 +1,10 @@
-My Hands-On-Projects :
+FRONTEND- PROJECTS :
 
 * Cosmetics Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT, SASS/SCSS ||  
- Github link : https://aparna1567.github.io/cosmeticswebsite/
+  Live link : https://aparna1567.github.io/cosmeticswebsite/ || Github: 
 
 * Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
  Github link : https://aparna1567.github.io/Awwwardsproj/
-                                   
-* Book Website      :  Technologies used : HTML 5, CSS 3, JavaScript||
- Github link : https://aparna1567.github.io/bookwebsite/
 
 * Ecommerce Website :  Technologies used : React, Tailwind CSS, Redux, VITE ||
  Github link : https://aparna1567.github.io/Ecommerceweb/
