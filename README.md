@@ -1,19 +1,19 @@
 FRONTEND- PROJECTS :
 
+* Ecommerce Website :  Technologies used : React, Tailwind CSS, Redux, VITE ||
+  Live link : https://aparnashoppingweb.netlify.app/
+
 * Cosmetics Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT, SASS/SCSS ||  
   Live link : https://aparna1567.github.io/cosmeticswebsite/ 
-
-* Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
-  Live link : https://aparna1567.github.io/Awwwardsproj/
-
-* Ecommerce Website :  Technologies used : React, Tailwind CSS, Redux, VITE ||
-  Live link : https://aparna1567.github.io/Ecommerceweb/
                                    
 * Gym Website       :  Technologies used : React, Bootstrap 5, Framer Motion, Webpack ||
   Live link : https://aparna1567.github.io/gymwebsite/
 
 * Restaurant Website  :  Technologies used : HTML 5, CSS 3, BOOTSTRAP 5 ||
   Live link : https://aparna1567.github.io/restaurantweb/
+
+* Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
+  Live link : https://aparna1567.github.io/Awwwardsproj/
 
 * Event Management Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT ||  
   Live link : https://aparna1567.github.io/Eventmanagement/
