@@ -23,7 +23,7 @@ FRONTEND- PROJECTS :
  * QUICK AI : Technologies used: React, Tailwind CSS, Neon, PostgreSQL, Clerk
  Live link: https://quick-ai-iota-blond.vercel.app/ 
 
- * BUSINESS WEBSITE : Technologies used: Nextjs, Tailwind CSS
+ * BUSINESS WEBSITE : Technologies used: Nextjs, Tailwind CSS, TypeSript
  Live link : https://businesswebsite-9xn4.vercel.app/
 
  * STOCK MARKET WEBAPPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit
