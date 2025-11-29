@@ -19,12 +19,9 @@ FRONTEND- PROJECTS :
   Live link : https://aparna1567.github.io/Eventmanagement/
 
  FULLSTACK- PROJECTS:
-
- * STEAMIFY- REAL TIME CHAT APPLICATION : Technologies used: MongoDB, Express, React, Nodejs, Tanstack Query
- Live link : https://streamify-video-bm8q.onrender.com/
  
  * QUICK AI : Technologies used: React, Tailwind CSS, Neon, PostgreSQL, Clerk
- Live link: https://quick-ai-iota-blond.vercel.app/
+ Live link: https://quick-ai-iota-blond.vercel.app/ 
 
  * BUSINESS WEBSITE : Technologies used: Nextjs, Tailwind CSS
  Live link : https://businesswebsite-9xn4.vercel.app/
@@ -32,8 +29,10 @@ FRONTEND- PROJECTS :
  * STOCK MARKET WEBAPPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit
  Live link : https://signalist-ochre.vercel.app/
 
- * TOURVISTO : Technologies used: React Router V7, Sentry, Syncfusion, Appwrite
- Live link : https://tourvistoweb.vercel.app/
+ * STEAMIFY- REAL TIME CHAT APPLICATION : Technologies used: MongoDB, Express, React, Nodejs, Tanstack Query
+ Live link : https://streamify-video-bm8q.onrender.com/
+
+
  
 
 
