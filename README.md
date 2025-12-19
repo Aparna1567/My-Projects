@@ -12,6 +12,9 @@ FRONTEND- PROJECTS :
 * Restaurant Website  :  Technologies used : HTML 5, CSS 3, BOOTSTRAP 5 ||
   Live link : https://aparna1567.github.io/restaurantweb/
 
+* AnimatedScroll Website : Technologies used : React, Tailwind CSS, GSAP, Threejs, VITE || 
+  Live link : https://aparna1567.github.io/animatedwebsite/
+
 * Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
   Live link : https://aparna1567.github.io/Awwwardsproj/
 
