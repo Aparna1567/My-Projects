@@ -20,6 +20,9 @@ FRONTEND- PROJECTS :
 
 * Event Management Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT ||  
   Live link : https://aparna1567.github.io/Eventmanagement/
+  
+* Rental Car website:   Technologies used : HTML 5, CSS 3, JAVASCRIPT ||  
+  Live link: https://aparna1567.github.io/carwebsite/
 
  FULLSTACK- PROJECTS:
  
