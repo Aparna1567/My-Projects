@@ -29,10 +29,10 @@ FRONTEND- PROJECTS :
 
  FULLSTACK- PROJECTS:
  
-* Food Delivery Web Application : Technologies used: MERN, Stripe, JWT,Tailwind CSS, Context API||
+* Food Delivery Web Application : Technologies used: MERN, Stripe, JWT,Tailwind CSS, Context API ||
   Live link : https://bitebuzz-frontend-42rk.onrender.com/
 
-* AI Invoice Platform : Technologies used: MERN, Gemini AI, Tailwind CSS, Clerk||
+* AI Invoice Platform : Technologies used: MERN, Gemini AI, Tailwind CSS, Clerk ||
   Live link : https://invoicefrontend-psi.vercel.app/
    
 * QUICK AI : Technologies used: PERN, Gemini AI, Clipdrop, Cloudinary, Clerk || 
@@ -41,7 +41,7 @@ FRONTEND- PROJECTS :
 * BUSINESS Web Application : Technologies used: Nextjs, Tailwind CSS, TypeSript ||
   Live link : https://businesswebsite-9xn4.vercel.app/
 
-* STOCK MARKET WEB APPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit  || 
+* STOCK MARKET WEB APPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit || 
   Live link : https://signalist-ochre.vercel.app/
 
 * REAL TIME CHAT APPLICATION : Technologies used: MongoDB, Express, React, Nodejs, Tanstack Query || 
