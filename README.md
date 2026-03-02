@@ -30,7 +30,8 @@ FRONTEND- PROJECTS :
  FULLSTACK- PROJECTS:
  
 * Food Delivery Web Application : Technologies used: MERN, Stripe, JWT,Tailwind CSS, Context API ||
-  Live link : https://bitebuzz-frontend-42rk.onrender.com/
+  Live link : Admin dashboard - https://bitebuzz-admin-7o4e.onrender.com/orders ,
+  Frontend UI - https://bitebuzz-frontend-42rk.onrender.com/
 
 * AI Invoice Platform : Technologies used: MERN, Gemini AI, Tailwind CSS, Clerk ||
   Live link : https://invoicefrontend-psi.vercel.app/
