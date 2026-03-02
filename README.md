@@ -42,9 +42,6 @@ FRONTEND- PROJECTS :
 * BUSINESS Web Application : Technologies used: Nextjs, Tailwind CSS, TypeSript ||
   Live link : https://businesswebsite-9xn4.vercel.app/
 
-* STOCK MARKET WEB APPLICATION : Technologies used : Better Auth, Nextjs, Tailwind CSS, Inngest, CodeRabbit || 
-  Live link : https://signalist-ochre.vercel.app/
-
 * REAL TIME CHAT APPLICATION : Technologies used: MongoDB, Express, React, Nodejs, Tanstack Query || 
   Live link : https://streamify-video-bm8q.onrender.com/
 
