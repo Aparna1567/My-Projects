@@ -35,6 +35,9 @@ FRONTEND- PROJECTS :
 
 * AI Invoice Platform : Technologies used: MERN, Gemini AI, Tailwind CSS, Clerk ||
   Live link : https://invoicefrontend-psi.vercel.app/
+
+* Expense Tracker : Technologies used: MERN, Vite, Tailwind CSS, JWT ||
+  Live link : https://expense-1-xvzp.onrender.com/
    
 * QUICK AI : Technologies used: PERN, Gemini AI, Clipdrop, Cloudinary, Clerk || 
   Live link: https://quick-ai-iota-blond.vercel.app/ 
