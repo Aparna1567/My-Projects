@@ -21,6 +21,9 @@ FRONTEND- PROJECTS :
 * Awwwards website  :  Technologies used : React, Tailwind CSS, GSAP, VITE ||
   Live link : https://aparna1567.github.io/Awwwardsproj/
 
+* Weather Application  :  Technologies used : React, Tailwind CSS, VITE ||
+  Live link : https://weatherapp-gamma-woad.vercel.app/
+
 * Macbook Pro 3D Website : Technologies used : React, Tailwind CSS, GSAP, Three. ||
   Live link : https://applewebsite-indol.vercel.app/
 
