@@ -1,6 +1,6 @@
 FRONTEND- PROJECTS :
 
-* Modern Watch Web Application : Engineered a React + Tailwind CSS watch catalogue application using Vite, achieving 97/100 PageSpeed performance score with 1.9s LCP, optimized via lazy loading, asset minification, and efficient Context API state management. ||   Live link : https://zeitro.vercel.app/
+* Modern Watch Web Application : Engineered a React + Tailwind CSS watch catalogue application using Vite, achieving 97/100 PageSpeed performance score with 1.9s LCP, 0ms Total Blocking Time, and 0 CLS - optimized via lazy loading, asset minification, and efficient Context API state management. ||   Live link : https://zeitro.vercel.app/ || Technologies used : [ React, Tailwind, Vite, Context API ]
   
 * Live Cricket Score Application : Technologies used : React, Tailwind CSS, React Hooks, VITE ||
   Live link : https://cricketbuzz-blush.vercel.app/
