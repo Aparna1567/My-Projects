@@ -1,6 +1,7 @@
 FRONTEND- PROJECTS :
 
-* Modern Watch Application :  Technologies used : [ React, Tailwind, Vite, Context API ]   ||  Engineered a React + Tailwind CSS watch catalogue application using Vite, achieving 97/100 PageSpeed performance score with 1.9s LCP, 0ms Total Blocking Time, and 0 CLS - optimized via lazy loading, asset minification, and efficient Context API state management. ||   Live link : https://zeitro.vercel.app/                                            
+* Modern Watch Application :  Technologies used : [ React, Tailwind, Vite, Context API ]   ||  Developed a modern watch catalogue application with responsive UI and optimized performance using React and Tailwind CSS. Improved application speed through lazy loading, asset optimization, and efficient state management, achieving a 97/100 PageSpeed score with 1.9s Largest Contentful Paint (LCP) and 0 Cumulative Layout Shift (CLS). ||   Live link : https://zeitro.vercel.app/       
+
 * Live Cricket Score Application : Technologies used : React, Tailwind CSS, React Hooks, VITE ||
   Live link : https://cricketbuzz-blush.vercel.app/
   
@@ -22,11 +23,6 @@ FRONTEND- PROJECTS :
 * Weather Application  :  Technologies used : React, Tailwind CSS, VITE ||
   Live link : https://weatherapp-gamma-woad.vercel.app/
 
-* Macbook Pro 3D Website : Technologies used : React, Tailwind CSS, GSAP, Three. ||
-  Live link : https://applewebsite-indol.vercel.app/
-
-* Event Management Website :  Technologies used : HTML 5, CSS 3, JAVASCRIPT ||  
-  Live link : https://aparna1567.github.io/Eventmanagement/
 
  FULLSTACK- PROJECTS:
  
