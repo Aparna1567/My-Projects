@@ -4,9 +4,9 @@ FRONTEND- PROJECTS :
 
 2. Live Cricket Score Platform
 
-React • Vite • Tailwind CSS
+  React • Vite • Tailwind CSS
 
-Responsive SPA with real-time match updates  * Improved Lighthouse Performance score from 81 → 93  * FCP: 1.6s | LCP: 2.5s | CLS: 0.085  * Reduced CSS bundle size by 85% (250KB → 36KB)  * Live Demo  : https://cricketbuzz-blush.vercel.app/
+  Responsive SPA with real-time match updates  * Improved Lighthouse Performance score from 81 → 93  * FCP: 1.6s | LCP: 2.5s | CLS:       0.085  * Reduced CSS bundle size by 85% (250KB → 36KB)  * Live Demo  : https://cricketbuzz-blush.vercel.app/
 
 
 * Optimized assets, fonts, and lazy-loaded routes for faster rendering
