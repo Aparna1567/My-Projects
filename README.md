@@ -3,11 +3,10 @@ FRONTEND- PROJECTS :
 ## Modern Watch Catalogue Application
 
 - React • Vite • Tailwind CSS • Context API
-- Context API for global state management (no prop drilling)
-- Lazy loading + code splitting for route-level performance
-- Optimized rendering with memoization & reduced re-renders
-- Lighthouse Score: 97/100, LCP: 1.9s | CLS: 0
-- Optimized assets, fonts & bundle size via Vite
+- Designed a scalable frontend architecture for a dynamic watch catalogue with reusable UI components
+- Managed global state using Context API, ensuring clean data flow and eliminating prop drilling
+- Optimized performance using lazy loading, code splitting, and memoization for efficient rendering
+- Achieved Lighthouse 97/100 with improved Core Web Vitals (LCP 1.9s, CLS 0) through asset and bundle optimization
 - Fast initial load + smooth navigation UX
   
 - Live demo : https://zeitro.vercel.app/
@@ -18,7 +17,7 @@ FRONTEND- PROJECTS :
 - React • Vite • Tailwind CSS
 - Responsive SPA with real-time match updates
 - Improved Lighthouse Performance score from 81 → 93
-- FCP: 1.6s | LCP: 2.5s | CLS: 0.085
+- Achieved fast load metrics: FCP: 1.6s | LCP: 2.5s | CLS: 0.085
 - Reduced CSS bundle size by 85% (250KB → 36KB)
 - Optimized assets, fonts, and lazy-loaded routes for faster rendering
   
