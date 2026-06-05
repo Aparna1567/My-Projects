@@ -28,7 +28,7 @@ FRONTEND- PROJECTS :
 
 ## RIDENOVA – Car Rental Platform
 
-- React • Javascript * Tailwind CSS * React Router * Shadcn/ui * Vite
+- React • Javascript • Tailwind CSS • React Router • Shadcn/ui • Vite
 - Built a fully responsive car rental SPA with modern UI and smooth animations
 - Improved Lighthouse performance score from 85 → 97 with Core Web Vitals optimization
 - Achieved fast load metrics: LCP 1.8s | FCP 1.7s | CLS 0
