@@ -6,10 +6,10 @@ FRONTEND- PROJECTS :
 - Context API for global state management (no prop drilling)
 - Lazy loading + code splitting for route-level performance
 - Optimized rendering with memoization & reduced re-renders
-- Lighthouse Score: 97/100
-- LCP: 1.9s | CLS: 0
+- Lighthouse Score: 97/100, LCP: 1.9s | CLS: 0
 - Optimized assets, fonts & bundle size via Vite
 - Fast initial load + smooth navigation UX
+  
 - Live demo : https://zeitro.vercel.app/
 - Github link : 
        
@@ -21,12 +21,23 @@ FRONTEND- PROJECTS :
 - FCP: 1.6s | LCP: 2.5s | CLS: 0.085
 - Reduced CSS bundle size by 85% (250KB → 36KB)
 - Optimized assets, fonts, and lazy-loaded routes for faster rendering
+  
 - Live Demo  : https://cricketbuzz-blush.vercel.app/
 - Github link : 
 
 
-* Car Rental Web Application : Technologies used : React, Tailwind CSS, VITE ||
-  Live link : https://ridenova.vercel.app/
+## RIDENOVA – Car Rental Platform
+
+- React • Javascript * Tailwind CSS * React Router * Shadcn/ui * Vite
+- Built a fully responsive car rental SPA with modern UI and smooth animations
+- Improved Lighthouse performance score from 85 → 97 with Core Web Vitals optimization
+- Achieved fast load metrics: LCP 1.8s | FCP 1.7s | CLS 0
+- Improved asset loading using fetchpriority and eager loading for LCP image
+- Enhanced UX with glassmorphism cards and modern CTA components
+  
+- Live Demo  : https://ridenova.vercel.app/
+- Github link : 
+
   
 * Ecommerce Web Application :  Technologies used : React, Tailwind CSS, Redux, VITE ||
   Live link : https://aparnashoppingweb.netlify.app/
