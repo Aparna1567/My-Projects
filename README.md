@@ -2,7 +2,7 @@ FRONTEND- PROJECTS :
 
 ## Modern Watch Catalogue Application
 
-- React • JavaScript • Tailwind CSS • Context API • React Router • Vite
+- React • JavaScript • Tailwind CSS • Redux • React Router • Vite
 - Designed a scalable frontend architecture for a dynamic watch catalogue with reusable UI components
 - Managed global state using Context API, ensuring clean data flow and eliminating prop drilling
 - Optimized performance using lazy loading, code splitting, and memoization for efficient rendering
